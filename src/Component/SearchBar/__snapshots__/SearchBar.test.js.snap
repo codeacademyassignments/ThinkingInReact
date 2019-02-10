@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`searchBar snapshot should match 1`] = `
+<div>
+  <input
+    onChange={[Function]}
+    placeholder="Search..."
+    type="text"
+    value="nothing"
+  />
+  <br />
+  <input
+    checked={true}
+    onClick={[Function]}
+    type="checkbox"
+  />
+  Only show products in stock
+</div>
+`;

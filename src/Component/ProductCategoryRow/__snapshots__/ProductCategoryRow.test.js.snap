@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Category Row previous snapshot should match 1`] = `
+<tr>
+  <th
+    colSpan="2"
+  >
+    sporting group
+  </th>
+</tr>
+`;

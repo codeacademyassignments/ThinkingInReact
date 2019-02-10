@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot testing snapshot should match to previous snapshot 1`] = `
+<table>
+  <thead>
+    <tr>
+      <th>
+        Name
+      </th>
+      <th>
+        Price
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th
+        colSpan="2"
+      >
+        Electronics
+      </th>
+    </tr>
+    <tr>
+      <td>
+        iPod Touch
+      </td>
+      <td>
+         
+        $99.99
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
